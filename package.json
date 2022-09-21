@@ -1,0 +1,19 @@
+{
+  "name": "simple-logger",
+  "version": "1.0.0",
+  "description": "Package created for logging message",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adityasingh2640/simple-log.git"
+  },
+  "author": "Aditya Singh Kushwaha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adityasingh2640/simple-log/issues"
+  },
+  "homepage": "https://github.com/adityasingh2640/simple-log#readme"
+}
