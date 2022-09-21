@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/adityasingh2640/simple-log/issues"
   },
-  "homepage": "https://github.com/adityasingh2640/simple-log#readme"
+  "homepage": "https://github.com/adityasingh2640/simple-log#readme",
+  "dependencies": {
+    "winston": "^3.8.2"
+  }
 }
