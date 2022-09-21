@@ -1,5 +1,5 @@
 {
-  "name": "simple-logger",
+  "name": "ad-logger",
   "version": "1.0.0",
   "description": "Package created for logging message",
   "main": "index.js",
